@@ -1,5 +1,6 @@
 # Estructuras de Datos Lineales - Semana 2
 
+%% alumno: Villajuan Millan Piero Brando %%
 
 ## Bloque 1 - Núcleo conceptual de la semana
 ### Análisis Profundo de Estructuras de Datos Lineales

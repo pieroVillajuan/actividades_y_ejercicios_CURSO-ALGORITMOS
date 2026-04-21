@@ -1,6 +1,8 @@
 
 # Resolución de Ejercicios: Semana 2
 
+%% alumno: Villajuan Millan Piero Brando %%
+
 ## Ejercicio 1. Tiempo promedio vs. tiempo amortizado
 
 ### 1. Diferencia entre tiempo promedio y amortizado
